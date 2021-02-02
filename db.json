@@ -2,18 +2,42 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello",
-      "thumbnail" : "http://test.com/1.jpg",
+      "title": "Astana multitext",
+      "thumbnail" : "http://static.contentstadium.com/templates/facebook/astana/2020/multitext/thumbnail.jpg",
       "template" : "http://test.com/1.jpg",
-      "description": "Test test test test"
+      "description": "Test test test test",
+      "code" : "awe123"
+    },
+    {
+      "id": 2,
+      "title": "Astana multitext - new",
+      "thumbnail" : "http://static.contentstadium.com/templates/facebook/astana/2021/multitext/thumbnail.jpg",
+      "template" : "http://test.com/1.jpg",
+      "description": "Test test test test",
+      "code" :  "hello123"
+    },
+    {
+      "id": 2,
+      "title": "Cbc sports results",
+      "thumbnail" : "http://static.contentstadium.com/templates/facebook/astana/2020/multitext/thumbnail.jpg",
+      "template" : "http://test.com/1.jpg",
+      "description": "Test test test test",
+      "code" :  "awe123"
+    },
+    {
+      "id": 2,
+      "title": "BK Hacken matchday",
+      "thumbnail" : "http://static.contentstadium.com/templates/facebook/astana/2021/multitext/thumbnail.jpg",
+      "template" : "http://test.com/1.jpg",
+      "description": "Test test test test",
+      "code" :  "hello123"
     }
+
   ],
   "users": [
     {
     "id":1,
-    "uname": "cs",
-    "pwd": "test123",
-    "account_id" : 1
+    "uname": "test@contentstadium.com"
   }
  ]
 }
