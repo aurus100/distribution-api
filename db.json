@@ -173,7 +173,8 @@
   "users": [
     {
     "id":1,
-    "uname": "test@contentstadium.com"
+    "uname": "test@contentstadium.com",
+    "token": "3afr-rt48-tg5f-6drw"
   }
  ]
 }
