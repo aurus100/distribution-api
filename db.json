@@ -96,7 +96,8 @@
       "thumbnail" : "http://static.contentstadium.com/templates/facebook_link/transfermarkt/2020/result/thumbnail.jpg?v=201908291508",
       "template" : "http://test.com/1.jpg",
       "description": "Test test test test",
-      "code" :  "hello123"
+      "code" :  "hello123",
+      "group_id":1
     }
   ],
   "users": [
@@ -119,4 +120,4 @@
        
       }
   ]
- }
+}
