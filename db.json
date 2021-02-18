@@ -177,7 +177,10 @@
     "token": "3afr-rt48-tg5f-6drw"
   }
  ],
-  "groups": [
+  "account":{
+    "account": "Transfermarkt",
+    "account_logo": "https://static.contentstadium.com/assets/logos/transfermarkt.png?v3",
+    "groups": [
       {
         "id": 1,
         "name": "Group 1",
@@ -247,6 +250,8 @@
         ]
       }
   ]
+  }
+  
 
   
 }
