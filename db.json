@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "Astana multitext - video",
-      "thumbnail" : "http://static.contentstadium.com/templates/twitter/transfermarkt/2020/three_boys/thumbnail.jpg?v=201908291508",
+      "thumbnail" : "https://i.ibb.co/jH3rxkV/2.jpg",
       "post":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
       "description": "test test test test",
       "code" : "awe123",
@@ -21,8 +21,7 @@
     {
       "id": 3,
       "title": "Cbc sports results",
-      "thumbnail" : "http://static.contentstadium.com/templates/instagram/transfermarkt/2020/voting/thumbnail.jpg?v=201908291508",
-      
+      "thumbnail" : "https://i.ibb.co/C24XSGv/3.jpg",  
       "description": "Test test test test",
       "code" :  "awe123",
       "group_id":"1"
@@ -30,8 +29,7 @@
     {
       "id": 4,
       "title": "BK Hacken matchday",
-      "thumbnail" : "http://static.contentstadium.com/templates/instagram/transfermarkt/2020/market_value/thumbnail.jpg?v=201908291508",
-      
+      "thumbnail" : "https://i.ibb.co/K2ZNbYG/4.jpg",
       "description": "The second type: Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       "code" :  "hello123",
       "group_id":"1"
@@ -39,8 +37,7 @@
     {
       "id": 5,
       "title": "BK Hacken matchday",
-      "thumbnail" : "http://static.contentstadium.com/templates/facebook_link/transfermarkt/2020/quote/thumbnail.jpg?v=201908291508",
-      
+      "thumbnail" : "https://i.ibb.co/27QFSDf/5.jpg",
       "description": "Test test test test",
       "code" :  "hello123",
       "group_id":"1"
@@ -48,8 +45,7 @@
     {
       "id": 6,
       "title": "BK Hacken matchday",
-      "thumbnail" : "http://static.contentstadium.com/templates/facebook_link/transfermarkt/2020/voting/thumbnail.jpg?v=201908291508",
-      
+      "thumbnail" : "https://i.ibb.co/tY7FTVZ/6.jpg",  
       "description": "Test test test test",
       "code" :  "hello123",
       "group_id":"1"
@@ -57,8 +53,7 @@
     {
       "id": 7,
       "title": "BK Hacken matchday",
-      "thumbnail" : "http://static.contentstadium.com/templates/facebook_link/transfermarkt/2020/result/thumbnail.jpg?v=201908291508",
-     
+      "thumbnail" : "https://i.ibb.co/D5JVzVX/7.jpg",
       "description": "Test test test test",
       "code" :  "hello123",
       "group_id":"1"
@@ -66,8 +61,7 @@
     {
       "id": 8,
       "title": "BK Hacken matchday",
-      "thumbnail" : "http://static.contentstadium.com/templates/facebook_link/transfermarkt/2020/result/thumbnail.jpg?v=201908291508",
-     
+      "thumbnail" : "https://i.ibb.co/D5JVzVX/7.jpg",
       "description": "Test test test test",
       "code" :  "hello123",
       "group_id":"1"
@@ -75,8 +69,7 @@
     {
       "id": 9,
       "title": "BK Hacken matchday",
-      "thumbnail" : "http://static.contentstadium.com/templates/facebook_link/transfermarkt/2020/result/thumbnail.jpg?v=201908291508",
-      
+      "thumbnail" : "https://i.ibb.co/tY7FTVZ/6.jpg",
       "description": "Test test test test",
       "code" :  "hello123",
       "group_id":"1"
@@ -84,8 +77,7 @@
     {
       "id": 10,
       "title": "BK Hacken matchday",
-      "thumbnail" : "http://static.contentstadium.com/templates/facebook_link/transfermarkt/2020/result/thumbnail.jpg?v=201908291508",
-     
+      "thumbnail" : "https://i.ibb.co/tY7FTVZ/6.jpg",
       "description": "Test test test test",
       "code" :  "hello123",
       "group_id":"1"
@@ -93,8 +85,7 @@
     {
       "id": 11,
       "title": "BK Hacken matchday",
-      "thumbnail" : "http://static.contentstadium.com/templates/facebook_link/transfermarkt/2020/result/thumbnail.jpg?v=201908291508",
-     
+      "thumbnail" : "https://i.ibb.co/D5JVzVX/7.jpg",
       "description": "Test test test test",
       "code" :  "hello123",
       "group_id":"2"
@@ -102,8 +93,7 @@
     {
       "id": 12,
       "title": "BK Hacken matchday",
-      "thumbnail" : "http://static.contentstadium.com/templates/facebook_link/transfermarkt/2020/result/thumbnail.jpg?v=201908291508",
-     
+      "thumbnail" : "https://i.ibb.co/tY7FTVZ/6.jpg",
       "description": "Test test test test",
       "code" :  "hello123",
       "group_id":"2"
@@ -111,8 +101,7 @@
     {
       "id": 13,
       "title": "BK Hacken matchday",
-      "thumbnail" : "http://static.contentstadium.com/templates/facebook_link/transfermarkt/2020/result/thumbnail.jpg?v=201908291508",
-     
+      "thumbnail" : "https://i.ibb.co/27QFSDf/5.jpg",
       "description": "Test test test test",
       "code" :  "hello123",
       "group_id":"2"
@@ -120,8 +109,7 @@
     {
       "id": 14,
       "title": "BK Hacken matchday",
-      "thumbnail" : "http://static.contentstadium.com/templates/facebook_link/transfermarkt/2020/result/thumbnail.jpg?v=201908291508",
-     
+      "thumbnail" : "https://i.ibb.co/27QFSDf/5.jpg",
       "description": "Test test test test",
       "code" :  "hello123",
       "group_id":"2"
@@ -129,8 +117,7 @@
     {
       "id": 15,
       "title": "BK Hacken matchday",
-      "thumbnail" : "http://static.contentstadium.com/templates/facebook_link/transfermarkt/2020/result/thumbnail.jpg?v=201908291508",
-      
+      "thumbnail" : "https://i.ibb.co/C24XSGv/3.jpg",
       "description": "Test test test test",
       "code" :  "hello123",
       "group_id":"2"
@@ -138,8 +125,7 @@
     {
       "id": 16,
       "title": "BK Hacken matchday",
-      "thumbnail" : "http://static.contentstadium.com/templates/facebook_link/transfermarkt/2020/result/thumbnail.jpg?v=201908291508",
-      
+      "thumbnail" : "https://i.ibb.co/C24XSGv/3.jpg",
       "description": "Test test test test",
       "code" :  "hello123",
       "group_id":"2"
@@ -147,7 +133,7 @@
     {
       "id": 17,
       "title": "BK Hacken matchday",
-      "thumbnail" : "http://static.contentstadium.com/templates/facebook_link/transfermarkt/2020/result/thumbnail.jpg?v=201908291508",
+      "thumbnail" : "https://i.ibb.co/jH3rxkV/2.jpg",
       "description": "Test test test test",
       "code" :  "hello123",
       "group_id":"2"
@@ -155,8 +141,7 @@
     {
       "id": 18,
       "title": "BK Hacken matchday",
-      "thumbnail" : "http://static.contentstadium.com/templates/facebook_link/transfermarkt/2020/result/thumbnail.jpg?v=201908291508",
-      
+      "thumbnail" : "https://i.ibb.co/tY7FTVZ/6.jpg",
       "description": "Test test test test",
       "code" :  "hello123",
       "group_id":"2"
@@ -164,7 +149,7 @@
     {
       "id": 19,
       "title": "BK Hacken matchday",
-      "thumbnail" : "http://static.contentstadium.com/templates/facebook_link/transfermarkt/2020/result/thumbnail.jpg?v=201908291508",
+      "thumbnail" : "https://i.ibb.co/jH3rxkV/2.jpg",
       "description": "Test test test test",
       "code" :  "hello123",
       "group_id":"2"
@@ -172,7 +157,7 @@
     {
       "id": 20,
       "title": "BK Hacken matchday",
-      "thumbnail" : "http://static.contentstadium.com/templates/facebook_link/transfermarkt/2020/result/thumbnail.jpg?v=201908291508",
+      "thumbnail" : "https://i.ibb.co/C24XSGv/3.jpg",
       "description": "Test test test test",
       "code" :  "hello123",
       "group_id":"2"
@@ -195,35 +180,37 @@
         "posts": [
           {
             "id": 1,
-            "title": "",
-            "thumbnail" : "http://static.contentstadium.com/templates/twitter/transfermarkt/2020/three_boys/thumbnail.jpg?v=201908291508",
-            "template" : "http://test.com/1.jpg",
-            "description": "Test test test test",
-            "code" : "awe123"
+            "title": "Astana multitext - video",
+            "thumbnail" : "https://i.ibb.co/jH3rxkV/2.jpg",
+            "post":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "description": "test test test test",
+            "code" : "awe123",
+            "group_id":"1"
           },
           {
             "id": 2,
             "title": "Astana multitext - new",
-            "thumbnail" : "http://static.contentstadium.com/templates/instagram_stories/transfermarkt/2020/done_deal/thumbnail.jpg?v=201908291508",
-            "template" : "http://test.com/1.jpg",
-            "description": "Test test test test",
-            "code" :  "hello123"
+            "thumbnail": "https://i.ibb.co/27fvfs9/1.jpg",
+            "thumbnail_old" : "http://static.contentstadium.com/templates/instagram_stories/transfermarkt/2020/done_deal/thumbnail.jpg?v=201908291508",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod , quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur",
+            "code" :  "hello123",
+            "group_id":"1"
           },
           {
             "id": 3,
             "title": "Cbc sports results",
-            "thumbnail" : "http://static.contentstadium.com/templates/instagram/transfermarkt/2020/voting/thumbnail.jpg?v=201908291508",
-            "template" : "http://test.com/1.jpg",
+            "thumbnail" : "https://i.ibb.co/C24XSGv/3.jpg",  
             "description": "Test test test test",
-            "code" :  "awe123"
+            "code" :  "awe123",
+            "group_id":"1"
           },
           {
             "id": 4,
             "title": "BK Hacken matchday",
-            "thumbnail" : "http://static.contentstadium.com/templates/instagram/transfermarkt/2020/market_value/thumbnail.jpg?v=201908291508",
-            "template" : "http://test.com/1.jpg",
-            "description": "Test test test test",
-            "code" :  "hello123"
+            "thumbnail" : "https://i.ibb.co/K2ZNbYG/4.jpg",
+            "description": "The second type: Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+            "code" :  "hello123",
+            "group_id":"1"
           }
         ]
       },
@@ -234,26 +221,34 @@
           {
             "id": 5,
             "title": "BK Hacken matchday",
-            "thumbnail" : "http://static.contentstadium.com/templates/facebook_link/transfermarkt/2020/quote/thumbnail.jpg?v=201908291508",
-          
+            "thumbnail" : "https://i.ibb.co/27QFSDf/5.jpg",
             "description": "Test test test test",
-            "code" :  "hello123"
+            "code" :  "hello123",
+            "group_id":"1"
           },
           {
             "id": 6,
             "title": "BK Hacken matchday",
-            "thumbnail" : "http://static.contentstadium.com/templates/facebook_link/transfermarkt/2020/voting/thumbnail.jpg?v=201908291508",
-           
+            "thumbnail" : "https://i.ibb.co/tY7FTVZ/6.jpg",  
             "description": "Test test test test",
-            "code" :  "hello123"
+            "code" :  "hello123",
+            "group_id":"1"
           },
           {
             "id": 7,
             "title": "BK Hacken matchday",
-            "thumbnail" : "http://static.contentstadium.com/templates/facebook_link/transfermarkt/2020/result/thumbnail.jpg?v=201908291508",
-           
+            "thumbnail" : "https://i.ibb.co/D5JVzVX/7.jpg",
             "description": "Test test test test",
-            "code" :  "hello123"
+            "code" :  "hello123",
+            "group_id":"1"
+          },
+          {
+            "id": 8,
+            "title": "BK Hacken matchday",
+            "thumbnail" : "https://i.ibb.co/D5JVzVX/7.jpg",
+            "description": "Test test test test",
+            "code" :  "hello123",
+            "group_id":"1"
           }
         ]
       }
