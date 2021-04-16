@@ -1,19 +1,10 @@
 {
   "posts": [
     {
-      "id": 20,
-      "title": "BK Hacken matchday - video",
-      "thumbnail" : "http://static.contentstadium.com/templates/facebook_link/transfermarkt/2020/result/thumbnail.jpg?v=201908291508",
-      "post":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-      "description": "Test test test test",
-      "code" :  "hello123",
-      "group_id":"2"
-    },
-    {
-      
       "id": 1,
-      "title": "Astana multitext",
+      "title": "Astana multitext - video",
       "thumbnail" : "http://static.contentstadium.com/templates/twitter/transfermarkt/2020/three_boys/thumbnail.jpg?v=201908291508",
+      "post":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
       "description": "test test test test",
       "code" : "awe123",
       "group_id":"1"
@@ -176,8 +167,15 @@
       "description": "Test test test test",
       "code" :  "hello123",
       "group_id":"2"
+    },
+    {
+      "id": 20,
+      "title": "BK Hacken matchday",
+      "thumbnail" : "http://static.contentstadium.com/templates/facebook_link/transfermarkt/2020/result/thumbnail.jpg?v=201908291508",
+      "description": "Test test test test",
+      "code" :  "hello123",
+      "group_id":"2"
     }
-    
   ],
   "users": [
     {
