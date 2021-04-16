@@ -9,7 +9,6 @@
       "code" :  "hello123",
       "group_id":"2"
     },
-    
     {
       
       "id": 1,
@@ -177,7 +176,7 @@
       "description": "Test test test test",
       "code" :  "hello123",
       "group_id":"2"
-    },
+    }
     
   ],
   "users": [
